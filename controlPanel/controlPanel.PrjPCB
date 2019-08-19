@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KUXBNKDD
 
 [Document3]
 DocumentPath=..\modules\altium-libs\hallglib.PcbLib
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RXNMYUCG
 
 [Document4]
 DocumentPath=..\modules\altium-libs\hallglib.SchLib
@@ -103,7 +103,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MJQNKJIS
 
 [Document5]
 DocumentPath=..\modules\altium-libs\Home.PcbLib
@@ -120,7 +120,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=XBAUXGBE
 
 [Document6]
 DocumentPath=..\modules\altium-libs\HomeProjects.SchLib
@@ -154,7 +154,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=PHCONVDU
 
 [Document8]
 DocumentPath=..\modules\altium-libs\mylib.SchLib
@@ -222,7 +222,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DRCLSVIL
 
 [Document12]
 DocumentPath=..\modules\altium-libs\stm32F030x.PCBLIB
@@ -257,6 +257,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CYQPKUXG
+
+[Document14]
+DocumentPath=main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LOARTRQV
+
+[Document15]
+DocumentPath=..\modules\altium-libs\stm32f4.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document16]
+DocumentPath=..\modules\altium-libs\stm32f4.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QVRMXKRD
+
+[Document17]
+DocumentPath=main.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MSEDYHAQ
 
 [Configuration1]
 Name=Sources
@@ -383,7 +451,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 [OutputGroup3]
 Name=Documentation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Composite
 OutputName1=Composite Drawing
@@ -1210,6 +1278,72 @@ NetClassSeparateForBusSections=0
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=hallglib.SchLib
+ComponentDesignItemID0=CAP 100nF
+ComponentSymbolReference0=CAP 100nF
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=hallglib.SchLib
+ComponentDesignItemID1=CAP 22pF
+ComponentSymbolReference1=CAP 22pF
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=hallglib.SchLib
+ComponentDesignItemID2=Connector_2pin
+ComponentSymbolReference2=Connector_2pin
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=hallglib.SchLib
+ComponentDesignItemID3=Crystal
+ComponentSymbolReference3=Crystal
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=hallglib.SchLib
+ComponentDesignItemID4=RES 10K
+ComponentSymbolReference4=RES 10K
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=hallglib.SchLib
+ComponentDesignItemID5=WES1000
+ComponentSymbolReference5=WES1000
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=mylib.SchLib
+ComponentDesignItemID6=MPU9250
+ComponentSymbolReference6=MPU9250
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=mylib.SchLib
+ComponentDesignItemID7=ServoMotor
+ComponentSymbolReference7=ServoMotor
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=RobonAUT.SchLib
+ComponentDesignItemID8=4-Pin Header
+ComponentSymbolReference8=4-Pin Header
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=Schlib1.SchLib
+ComponentDesignItemID9=JUMPER_2
+ComponentSymbolReference9=JUMPER_2
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=stm32f4.SCHLIB
+ComponentDesignItemID10=STM32F4R_64PIN_FOXCAR
+ComponentSymbolReference10=STM32F4R_64PIN_FOXCAR
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1223,6 +1357,96 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Description
+ParameterUpdate2=1
+ParameterName3=DeviceName
+ParameterUpdate3=1
+ParameterName4=DeviceSetName
+ParameterUpdate4=1
+ParameterName5=GateName_1
+ParameterUpdate5=1
+ParameterName6=Library Reference
+ParameterUpdate6=1
+ParameterName7=LibraryName
+ParameterUpdate7=1
+ParameterName8=Name
+ParameterUpdate8=1
+ParameterName9=Package
+ParameterUpdate9=1
+ParameterName10=Power
+ParameterUpdate10=1
+ParameterName11=Reference
+ParameterUpdate11=1
+ParameterName12=Supplier
+ParameterUpdate12=1
+ParameterName13=SymbolName_1
+ParameterUpdate13=1
+ParameterName14=Tolerance
+ParameterUpdate14=1
+ParameterName15=Value
+ParameterUpdate15=1
+ParameterName16=Voltage
+ParameterUpdate16=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=4-Pin Header
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=FP_0805_CAP_085
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=FP_0805_RES
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=FP_CONN_CABLE_1mm
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=FP_CONN_CABLE_2mm
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=FP_CONN2_2MM_180
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=FP_CONN2_2MM_90
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=FP_CONN2_SORK_3.81MM
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=FP_CONN2_TAP_254MM
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=FP_CONN2_TAP_254MM_90
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=FP_CONN2_TUSKE_254MM
+ModelUpdate10=1
+ModelType11=PCBLIB
+ModelName11=FP_CRYSTAL_HC49
+ModelUpdate11=1
+ModelType12=PCBLIB
+ModelName12=FP_CRYSTAL_HC49_SMD
+ModelUpdate12=1
+ModelType13=PCBLIB
+ModelName13=FP_WES1000
+ModelUpdate13=1
+ModelType14=PCBLIB
+ModelName14=JUMPER_2
+ModelUpdate14=1
+ModelType15=PCBLIB
+ModelName15=LQFP64
+ModelUpdate15=1
+ModelType16=PCBLIB
+ModelName16=MPU9250
+ModelUpdate16=1
+ModelType17=PCBLIB
+ModelName17=Servo_motor
+ModelUpdate17=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
@@ -1236,4 +1460,7 @@ ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Co
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
