@@ -326,6 +326,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSEDYHAQ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for controlPanel\Design Rule Check - main.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
