@@ -290,7 +290,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ODOSRLOY
 
 [Document16]
 DocumentPath=..\modules\altium-libs\stm32f4.SCHLIB
@@ -326,75 +326,123 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MSEDYHAQ
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for controlPanel\Design Rule Check - main.html
+[Document18]
+DocumentPath=..\modules\altium-libs\rpi.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ULCRYWGC
 
-[GeneratedDocument2]
+[Document19]
+DocumentPath=..\modules\altium-libs\rpi.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VRSFBUOT
+
+[Document20]
+DocumentPath=..\modules\altium-libs\STM32F401_Nucleo.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NYFOXVVC
+
+[Document21]
+DocumentPath=..\modules\altium-libs\STM32F401_Nucleo.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GENTIUBR
+
+[GeneratedDocument1]
 DocumentPath=Project Outputs for controlPanel\main.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for controlPanel\main.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for controlPanel\main.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument5]
-DocumentPath=Project Outputs for controlPanel\main.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for controlPanel\main.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for controlPanel\main.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for controlPanel\main.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
-DocumentPath=Project Outputs for controlPanel\main.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for controlPanel\main.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for controlPanel\main.GM20
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for controlPanel\main.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for controlPanel\main.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for controlPanel\main.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for controlPanel\main.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for controlPanel\main.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for controlPanel\main.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for controlPanel\main.TXT
 DItemRevisionGUID=
 
@@ -1362,68 +1410,80 @@ ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=hallglib.SchLib
 ComponentDesignItemID0=CAP 100nF
 ComponentSymbolReference0=CAP 100nF
-ComponentUpdate0=1
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
 ComponentLibraryIdentifier1=hallglib.SchLib
 ComponentDesignItemID1=CAP 22pF
 ComponentSymbolReference1=CAP 22pF
-ComponentUpdate1=1
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=hallglib.SchLib
 ComponentDesignItemID2=Connector_2pin
 ComponentSymbolReference2=Connector_2pin
-ComponentUpdate2=1
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
 ComponentLibraryIdentifier3=hallglib.SchLib
 ComponentDesignItemID3=Crystal
 ComponentSymbolReference3=Crystal
-ComponentUpdate3=1
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
 ComponentLibraryIdentifier4=hallglib.SchLib
-ComponentDesignItemID4=RES 10K
-ComponentSymbolReference4=RES 10K
-ComponentUpdate4=1
+ComponentDesignItemID4=LED Red
+ComponentSymbolReference4=LED Red
+ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=hallglib.SchLib
-ComponentDesignItemID5=WES1000
-ComponentSymbolReference5=WES1000
-ComponentUpdate5=1
+ComponentDesignItemID5=RES 10K
+ComponentSymbolReference5=RES 10K
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=mylib.SchLib
-ComponentDesignItemID6=MPU9250
-ComponentSymbolReference6=MPU9250
-ComponentUpdate6=1
+ComponentLibraryIdentifier6=hallglib.SchLib
+ComponentDesignItemID6=RES 1K
+ComponentSymbolReference6=RES 1K
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
 ComponentLibraryIdentifier7=mylib.SchLib
-ComponentDesignItemID7=ServoMotor
-ComponentSymbolReference7=ServoMotor
-ComponentUpdate7=1
+ComponentDesignItemID7=MPU9250
+ComponentSymbolReference7=MPU9250
+ComponentUpdate7=0
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=RobonAUT.SchLib
-ComponentDesignItemID8=4-Pin Header
-ComponentSymbolReference8=4-Pin Header
+ComponentLibraryIdentifier8=mylib.SchLib
+ComponentDesignItemID8=ServoMotor
+ComponentSymbolReference8=ServoMotor
 ComponentUpdate8=1
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=Schlib1.SchLib
-ComponentDesignItemID9=JUMPER_2
-ComponentSymbolReference9=JUMPER_2
-ComponentUpdate9=1
+ComponentLibraryIdentifier9=mylib.SchLib
+ComponentDesignItemID9=SiLabs_Thunderboard_Sense2
+ComponentSymbolReference9=SiLabs_Thunderboard_Sense2
+ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=stm32f4.SCHLIB
-ComponentDesignItemID10=STM32F4R_64PIN_FOXCAR
-ComponentSymbolReference10=STM32F4R_64PIN_FOXCAR
-ComponentUpdate10=1
+ComponentLibraryIdentifier10=RobonAUT.SchLib
+ComponentDesignItemID10=4-Pin Header
+ComponentSymbolReference10=4-Pin Header
+ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=Schlib1.SchLib
+ComponentDesignItemID11=JUMPER_2
+ComponentSymbolReference11=JUMPER_2
+ComponentUpdate11=0
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=stm32f4.SCHLIB
+ComponentDesignItemID12=STM32F4R_64PIN_FOXCAR
+ComponentSymbolReference12=STM32F4R_64PIN_FOXCAR
+ComponentUpdate12=0
+ComponentIsDeviceSheet12=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1449,28 +1509,34 @@ ParameterName4=DeviceSetName
 ParameterUpdate4=1
 ParameterName5=GateName_1
 ParameterUpdate5=1
-ParameterName6=Library Reference
+ParameterName6=I_max
 ParameterUpdate6=1
-ParameterName7=LibraryName
+ParameterName7=Library Reference
 ParameterUpdate7=1
-ParameterName8=Name
+ParameterName8=LibraryName
 ParameterUpdate8=1
-ParameterName9=Package
+ParameterName9=Name
 ParameterUpdate9=1
-ParameterName10=Power
+ParameterName10=Package
 ParameterUpdate10=1
-ParameterName11=Reference
+ParameterName11=Power
 ParameterUpdate11=1
-ParameterName12=Supplier
+ParameterName12=Reference
 ParameterUpdate12=1
-ParameterName13=SymbolName_1
+ParameterName13=Supplier
 ParameterUpdate13=1
-ParameterName14=Tolerance
+ParameterName14=SymbolName_1
 ParameterUpdate14=1
-ParameterName15=Value
+ParameterName15=Tolerance
 ParameterUpdate15=1
-ParameterName16=Voltage
+ParameterName16=U_fw
 ParameterUpdate16=1
+ParameterName17=Value
+ParameterUpdate17=1
+ParameterName18=Voltage
+ParameterUpdate18=1
+ParameterName19=Wavelength
+ParameterUpdate19=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
@@ -1480,53 +1546,32 @@ ModelType1=PCBLIB
 ModelName1=FP_0805_CAP_085
 ModelUpdate1=1
 ModelType2=PCBLIB
-ModelName2=FP_0805_RES
+ModelName2=FP_0805_LED_RED
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=FP_CONN_CABLE_1mm
+ModelName3=FP_0805_RES
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=FP_CONN_CABLE_2mm
+ModelName4=FP_CONN2_TUSKE_254MM
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=FP_CONN2_2MM_180
+ModelName5=FP_CRYSTAL_HC49_SMD
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=FP_CONN2_2MM_90
+ModelName6=JUMPER_2
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=FP_CONN2_SORK_3.81MM
+ModelName7=LQFP64
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=FP_CONN2_TAP_254MM
+ModelName8=MPU9250
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=FP_CONN2_TAP_254MM_90
+ModelName9=Servo_motor
 ModelUpdate9=1
 ModelType10=PCBLIB
-ModelName10=FP_CONN2_TUSKE_254MM
+ModelName10=SiLabs_Thunderbird_Sense2
 ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=FP_CRYSTAL_HC49
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=FP_CRYSTAL_HC49_SMD
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=FP_WES1000
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=JUMPER_2
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=LQFP64
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=MPU9250
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=Servo_motor
-ModelUpdate17=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
